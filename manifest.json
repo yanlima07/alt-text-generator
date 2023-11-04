@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "ALT TEXT GENERATOR",
+  "version": "1.0",
+  "description": "A Chrome extension to generate ALT TEXT for images, based on GOOGLE VISION API and OPEN AI GPT.",
+  "permissions": [
+    "activeTab"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/icon.png"
+    }
+  },
+  "icons": {
+    "16": "images/icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "seventh-wharf-401022",
+  "private_key_id": "9880641ddb2b019ff31e268a0906d3c863415a56",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCyuS+JURB+DSN6\nBmg1E0RVdO9IB0tLfnlqj6mu+Lc4kgSpF+aw1ARrKWCSZzHhYIOPAUBSvrPICZfJ\nM2neqaRDTlO/4iowlCTzUwE4TdmgbEx28xZrs/Rnwk309cKkOStnxmGd71JPRtpP\nUOkEMiLeqGib2KgGmgzpQzWayXbDJcEexEHnUx2tDhFA4She1yeYCHYRMTfEhm7P\n0wJoeCFjRU3vFHvs0hI0oW2lNWnunzEpP7F1C2TLghOg1l9YBoZs25xIQXnL4ZSW\nIwGVUAXad4WPE5M237vp41jFPxZAoPTsbY3Opz6BWpiDiFB6sLav8MZXBR+VJsZI\nNjN1Vb6dAgMBAAECggEAAnulJ+y65G1tTUAyiW47mE5YFrGXP7TBnhPh4R7ueLg6\nnVjKKTHA3/ZCs7YAUOfE3CNB0AR7Pe+4LqDqux+zOwYnDrbnLCaavtCr5yrZt6tZ\ngpuM97EX16sw5xLVAfATZM0yRP3ysExFMy3mFttVda90SJoBd5oDTOhUodJjtoFV\nSwZ5ji4bwh5cWXkU1yqCmIHVPUnbRq3Si0wfUGhXhili/w8vSUtc8qn1SXze+Ivn\njKS+CuCUgy26fOWh5zKEakGa7HlSN+PWzgqpA/QCFze9G04sXLFJ/kLdkzzHDPo2\nEtf3kOOS5p8VizoUfCQPFpeyQWzackJWA0HgpVyI1wKBgQDvIi7a4UOvZzKVkXXO\nsIZJxDjeAVo8fHUlBe8Ng1UO379Yf/X9KqBPh2z/g14ujth3+mo9yC617S9jhiVM\nA2Wwj75LtOoYNRp1hc/fjyT0r4VGW2u6uovFKuzeCsAjItFCVRgRp7/R0c98jiBW\nPjJjTs7ohq55a/ThHcY/Fv5CywKBgQC/VDtEQZ77fnp9jz7Wlr12fqNhw1YMtCXA\nIAU+RUBVJg+vTHwqjkcPkUFgpsl3bQapSJ5ulKW/GmymFnC+v344ebefj3oNCi34\n/+LurgRBCvEH8MzpiKgezDedbF+o0ULR7O/emZRmTfvPQQEnBRd+6tKe8IBMKCGm\n3JXwXXKPNwKBgQCRB7dJEmPdhoYcRhsf3tmi9XnT0xgqJQVbDe080dENc0/2Wa0T\n/P07HpRRpxfAvuu0YFB85eLGfXJHNv15y3mqCpPMEI4FXneMnTpEiOlN6QG4eQuu\nNSM90lnUFMsQxDYLt9YgJw/kLg5bqUsdYx1mM06zobNBeuMKgOdSLhzI3wKBgCY7\nhrxVAJfw5jlA7qWi6alMFQnsJr3TIdgKjgGrhPd+65N0DTvTwo9xz0apDYk32CTr\nxf0C5zwQ47UstsrnKSnP6MmRuinw5s7jE03uqBr3PMMBc3EXRcEhvdtPVK4/YsLg\nPe6VcfofizoXG0vY0KEj+4KXPIv7WP4nBi9J/SJxAoGAUhhi1NLE85hLc59MbMeY\npMmpoERoEXTpCQ25mzg3JClq/QK0ef/qrJg4ZXPqE8W+CXjpe69X2SnIwbu+2mdS\n3MHaxawGUWE2gV0kd0pbh+XaZ0cUjNZfCHOGyQEM4r+4amcffqVtRcWqmZt49W0p\ngtoISyWe8Uns1Bu6spr09Ds=\n-----END PRIVATE KEY-----\n",
+  "client_email": "yandriw-visionapi@seventh-wharf-401022.iam.gserviceaccount.com",
+  "client_id": "103024449278634747112",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yandriw-visionapi%40seventh-wharf-401022.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ALT TEXT GENERATOR</title>
+    <link rel="stylesheet" type="text/css" href="popup.css" />
+  </head>
+  <body>
+    <div class="initialScreen" id="initialScreen">
+      <h1>ALT TEXT GENERATOR</h1>
+      <div class="imageContainer" id="imageContainer"></div>
+      <div class="textContainer" id="textContainer"></div>
+    </div>
+
+    <div class="configScreen" id="configScreen">
+      <h1>ALT TEXT GENERATOR CONFIG</h1>
+      <div class="messageData">
+        <div class="imageContainerConfig" id="imageContainerConfig"></div>
+        <div class="textData">
+          <div class="altContainerConfig" id="altContainerConfig"></div>
+          <div
+            class="paragraphContainerConfig"
+            id="paragraphContainerConfig"
+          ></div>
+        </div>
+      </div>
+
+      <h2>SELECT THE DATA AND MODEL TO GENERATE THE ALT TEXT</h2>
+
+      <div class="checkboxDIV" id="checkboxDIV">
+        <label class="labelCheck">
+          <input type="checkbox" name="checkALT" />
+          ALT TEXT
+        </label>
+
+        <label class="labelCheck">
+          <input type="checkbox" name="checkParagraph" />
+          PARAGRAPH
+        </label>
+
+        <label class="labelCheck">
+          <input type="checkbox" name="checkGPT35" />
+          GPT 3.5
+        </label>
+
+        <label class="labelCheck">
+          <input type="checkbox" name="checkGPT4" />
+          GPT 4
+        </label>
+      </div>
+
+      <button id="sendButton" class="sendButton">GENERATE ALT TEXT</button>
+
+      <div class="consoleContainer" id="consoleContainer"></div>
+    </div>
+
+    <div class="config" id="config">
+      <button id="configButton" class="configButton">
+        <img src="images/gear.png" alt="Configuration button" />
+      </button>
+    </div>
+    <script src="popup.js"></script>
+  </body>
+</html>
