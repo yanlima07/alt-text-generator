@@ -143,7 +143,7 @@ function displayTextConsole(textData) {
 function sendImageToGoogleVision(imageUrl) {
   displayTextConsole("2. Sending data to Google Vision API");
   displayTextConsole(imageUrl);
-  const apiKey = "AIzaSyCe4NY5-ALr75PekPeq4fsd3bvzYuKLv9k";
+  const apiKey = "INSERT YOUR GOOGLE CLOUD API KEY";
   const apiUrl = `https://vision.googleapis.com/v1/images:annotate?key=${apiKey}`;
 
   const request = {
@@ -333,7 +333,7 @@ function gptVersionCheck(promptCheckVersion) {
 
 function sendTextToOpenAIGPT4(promptGTP4) {
   displayTextConsole("5. Sending data to OpenAI GTP API");
-  const apiKey = "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"; // Replace with your OpenAI API key
+  const apiKey = "INSERT YOUR OPENAI API KEY HERE"; // Replace with your OpenAI API key
   const apiUrl = "https://api.openai.com/v1/chat/completions";
 
   var prompt = promptGTP4;
@@ -392,7 +392,7 @@ function sendTextToOpenAIGPT4(promptGTP4) {
 
 function sendTextToOpenAIGPT35(promptGTP35) {
   displayTextConsole("5. Sending data to OpenAI GTP API");
-  const apiKey = "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"; // Replace with your OpenAI API key
+  const apiKey = "INSERT YOUR OPENAI API KEY HERE"; // Replace with your OpenAI API key
   const apiUrl = "https://api.openai.com/v1/chat/completions";
 
   var prompt = promptGTP35;
